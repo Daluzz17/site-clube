@@ -39,7 +39,7 @@ header {
 
 header h1 {
     font-family: var(--fonte-destaque);
-    font-size: 3vw;
+    font-size: 4vw;
     text-align: center;
 }
 
@@ -52,7 +52,7 @@ header p {
 
 nav a {
     font-family: var(--fonte-destaque);
-    font-size: 1.7vw;
+    font-size: 2.5vw;
     color: var(--cor0);
     padding: 10px;
     border-radius: 10px 10px 0px 0px;
@@ -107,7 +107,8 @@ main a {
     text-decoration: none;
     color: black;
     font-family: var(--fonte-destaque);
-    padding-left: 3px
+    padding-left: 3px;
+    font-size:1.7vw;
 }
 
 main a:hover {
